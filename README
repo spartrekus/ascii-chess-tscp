@@ -1,0 +1,15 @@
+This is Tom's Simple Chess Program. This chess program was originally
+written by Tom Kerrigan (kerrigan@frii.com). It was deliberately
+written to be simple and easy to understand.
+
+This version of TSCP was put together by me in March 1998. I added the
+RoboFICS support code and the algebraic parse code. I'm providing this
+source as an example chess program. If you base your chess program on
+any of this code then please give credit to Tom.
+
+The startfics script is provided as a demonstration of how tscp can be
+used with RoboFICS.
+
+--
+Andrew Tridgell
+tridge@samba.anu.edu.au
